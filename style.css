@@ -1,0 +1,97 @@
+body {
+text-align: center;
+
+color: gray;
+}
+
+
+#nav-bar1 {
+    display: flex;  
+
+    /* justify-content: flex-end; */
+    justify-content: space-between;
+    border: 1px gray  solid;
+    height: 70px;
+    background-color: pink;
+    
+}
+.web-name{
+ /* border: 1px red solid;    */
+ display: flex;
+ width: 55%;
+}
+.web-name a{
+   color: white; 
+   font-size: 50px;
+   text-decoration: none;
+   
+}
+.link-name{
+  /* border: 1px blue solid;   */
+  width: 40%;
+  display: flex;
+  justify-content: space-between;
+  
+}
+
+.link-name a{
+    color: white;
+    font-size: 50px;
+    text-decoration: none;
+}
+
+#nav-bar2 {
+    display: flex;  
+
+
+    border: 1px gray  solid;
+    height: 70px;
+    background-color: pink;
+}
+ 
+#nav-bar4 {
+    display: flex;  
+
+
+    border: 1px gray  solid;
+    height: 70px;
+    background-color: pink;
+}
+#bot-bar1 {
+    display: flex;  
+justify-content: space-evenly;
+
+    border: 1px gray  solid;
+    height: 70px;
+    background-color: pink;
+    align-items: center;
+}
+#bot-bar1 a{
+    color: white;
+    font-size: 30px;
+    text-decoration: none;
+
+}
+#bot-bar2 {
+    display: flex;  
+
+
+    border: 1px gray  solid;
+    height: 70px;
+    background-color: pink;
+}
+
+#bot-bar3 {
+    display: flex;  
+
+
+    border: 1px gray  solid;
+    height: 70px;
+    background-color: pink;
+}
+#nav-bar1 a:hover{
+    color: grey;
+}
+#bot-bar1 a:hover{
+    color: grey;
+}
