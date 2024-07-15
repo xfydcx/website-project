@@ -95,3 +95,33 @@ justify-content: space-evenly;
 #bot-bar1 a:hover{
     color: grey;
 }
+#home-img {
+  width: 70%;  
+  /* border: 2px solid grey; */
+  padding-top: 30px;
+}
+#pic-1{
+    width: 30%;  
+    /* border: 2px solid grey; */
+    padding-top: 30px;
+}
+#pic-2{
+    width: 30%;  
+    /* border: 2px solid grey; */
+    padding-top: 30px;
+}
+
+#pic-3{
+    width: 30%;  
+    /* border: 2px solid grey; */
+    padding-top: 30px;
+}
+.bouquet-images{
+    /* border: 2px solid grey; */
+    display: flex;
+    flex-flow: row wrap;
+    justify-content: space-evenly;
+    align-items: center;
+}
+
+
