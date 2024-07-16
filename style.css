@@ -1,6 +1,6 @@
 body {
 text-align: center;
-
+font-family: Georgia, 'Times New Roman', Times, serif;
 color: gray;
 }
 
@@ -19,6 +19,7 @@ color: gray;
  /* border: 1px red solid;    */
  display: flex;
  width: 55%;
+ 
 }
 .web-name a{
    color: white; 
@@ -101,21 +102,21 @@ justify-content: space-evenly;
   padding-top: 30px;
 }
 #pic-1{
-    width: 80%;  
+    width: 90%;  
     /* border: 2px solid grey; */
     /* padding-top: 30px; */
     height: 70%;
 
 }
 #pic-2{
-    width: 80%;  
+    width: 90%;  
     /* border: 2px solid grey; */
     /* padding-top: 30px; */
     height: 70%;
 }
 
 #pic-3{
-    width: 80%;  
+    width: 90%;  
     /* border: 2px solid grey; */
     /* padding-top: 30px; */
     height: 70%;
