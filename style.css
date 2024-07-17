@@ -66,12 +66,14 @@ justify-content: space-evenly;
     height: 70px;
     background-color: pink;
     align-items: center;
+    
 }
 #bot-bar1 a{
     color: white;
     font-size: 30px;
     text-decoration: none;
-
+    /* display: inline; */
+    
 }
 #bot-bar2 {
     display: flex;  
@@ -97,7 +99,7 @@ justify-content: space-evenly;
     color: grey;
 }
 #home-img {
-  width: 50.8%;  
+  width: 49%;  
   /* border: 2px solid grey; */
   padding-top: 30px;
 }
